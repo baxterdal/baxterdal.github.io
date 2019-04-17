@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jamie B</title>
-    <link>http://example.com/</link>
+    <link>https://baxterdal.github.io/</link>
     <description>Recent content on Jamie B</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://baxterdal.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://example.com/test/</link>
+      <link>https://baxterdal.github.io/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/test/</guid>
+      <guid>https://baxterdal.github.io/test/</guid>
       <description>Lit Review of Collaborative Governance for Halifax Food Policy Alliance / Food Action Plan Background The Halifax Food Policy Alliance (HFPA) is in the process of co-leading the development of a Food Action Plan (FAP) for the Halifax Regional Municipality (HRM). The FAP will guide the future development and implementation of food policies and food systems governance in the HRM.
 The HFPA is looking for research guidance on how to structure the process of developing the FAP for the HRM.</description>
     </item>
