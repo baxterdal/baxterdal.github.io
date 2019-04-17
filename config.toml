@@ -1,0 +1,4 @@
+baseURL = "https://baxterdal.github.io/"
+languageCode = "en-us"
+title = "Jamie Baxter"
+theme = "ananke"
