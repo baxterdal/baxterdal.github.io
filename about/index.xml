@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Portfolio Website</title>
+    <link>https://baxterdal.github.io/about/</link>
+    <description>Recent content in Abouts on Portfolio Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://baxterdal.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://baxterdal.github.io/about/test2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://baxterdal.github.io/about/test2/</guid>
+      <description>A Test Page 2 Attention Semper risus in hendrerit gravida rutrum. Bibendum enim facilisis gravida neque convallis a. Morbi quis commodo odio aenean sed adipiscing diam donec. Id neque aliquam vestibulum morbi blandit cursus risus at ultrices. Vel pharetra vel turpis nunc eget lorem dolor. Fermentum dui faucibus in ornare quam viverra orci sagittis. Nulla facilisi etiam dignissim diam quis enim. Nulla posuere sollicitudin aliquam ultrices sagittis orci. Aliquam ultrices sagittis orci a.</description>
+    </item>
+    
+  </channel>
+</rss>

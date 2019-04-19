@@ -3,8 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://baxterdal.github.io/test/</loc>
+    <loc>https://baxterdal.github.io/post/2015-01-04-first-post/</loc>
+    <lastmod>2015-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://baxterdal.github.io/</loc>
+    <lastmod>2015-01-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://baxterdal.github.io/post/</loc>
+    <lastmod>2015-01-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://baxterdal.github.io/publication/article1/</loc>
   </url>
   
   <url>
@@ -13,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://baxterdal.github.io/</loc>
+    <loc>https://baxterdal.github.io/publication/</loc>
     <priority>0</priority>
   </url>
   
