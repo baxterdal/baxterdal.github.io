@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>three on Jamie Baxter</title>
+    <link>https://baxterdal.github.io/tags/three/</link>
+    <description>Recent content in three on Jamie Baxter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://baxterdal.github.io/tags/three/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Yet another post</title>
+      <link>https://baxterdal.github.io/post/post1/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://baxterdal.github.io/post/post1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pulvinar neque laoreet suspendisse interdum consectetur libero id. Malesuada nunc vel risus commodo viverra. Nisi scelerisque eu ultrices vitae. Pharetra pharetra massa massa ultricies mi quis hendrerit. Sapien et ligula ullamcorper malesuada proin. In massa tempor nec feugiat nisl. Sed libero enim sed faucibus turpis in eu mi. Sapien et ligula ullamcorper malesuada proin libero nunc.</description>
+    </item>
+    
+  </channel>
+</rss>

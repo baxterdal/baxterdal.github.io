@@ -6,27 +6,27 @@
     <description>Recent content in Posts on Jamie Baxter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://baxterdal.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Test Lecture</title>
-      <link>https://baxterdal.github.io/post/test333/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <link>https://baxterdal.github.io/post/post2/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://baxterdal.github.io/post/test333/</guid>
-      <description></description>
+      <guid>https://baxterdal.github.io/post/post2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel risus commodo viverra maecenas accumsan. Facilisis mauris sit amet massa vitae tortor condimentum. Eget lorem dolor sed viverra ipsum. Rhoncus est pellentesque elit ullamcorper dignissim. Porta lorem mollis aliquam ut porttitor leo a diam sollicitudin. Netus et malesuada fames ac turpis egestas sed tempus. Dolor sit amet consectetur adipiscing elit ut.</description>
     </item>
     
     <item>
       <title>Yet another post</title>
-      <link>https://baxterdal.github.io/post/anotherpost/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <link>https://baxterdal.github.io/post/post1/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://baxterdal.github.io/post/anotherpost/</guid>
-      <description>A test page.</description>
+      <guid>https://baxterdal.github.io/post/post1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pulvinar neque laoreet suspendisse interdum consectetur libero id. Malesuada nunc vel risus commodo viverra. Nisi scelerisque eu ultrices vitae. Pharetra pharetra massa massa ultricies mi quis hendrerit. Sapien et ligula ullamcorper malesuada proin. In massa tempor nec feugiat nisl. Sed libero enim sed faucibus turpis in eu mi. Sapien et ligula ullamcorper malesuada proin libero nunc.</description>
     </item>
     
   </channel>

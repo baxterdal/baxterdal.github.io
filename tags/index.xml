@@ -6,53 +6,35 @@
     <description>Recent content in Tags on Jamie Baxter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://baxterdal.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>development</title>
-      <link>https://baxterdal.github.io/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>two</title>
+      <link>https://baxterdal.github.io/tags/two/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://baxterdal.github.io/tags/development/</guid>
+      <guid>https://baxterdal.github.io/tags/two/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>go</title>
-      <link>https://baxterdal.github.io/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>one</title>
+      <link>https://baxterdal.github.io/tags/one/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://baxterdal.github.io/tags/go/</guid>
+      <guid>https://baxterdal.github.io/tags/one/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>golang</title>
-      <link>https://baxterdal.github.io/tags/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>three</title>
+      <link>https://baxterdal.github.io/tags/three/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://baxterdal.github.io/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>templates</title>
-      <link>https://baxterdal.github.io/tags/templates/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://baxterdal.github.io/tags/templates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://baxterdal.github.io/tags/themes/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://baxterdal.github.io/tags/themes/</guid>
+      <guid>https://baxterdal.github.io/tags/three/</guid>
       <description></description>
     </item>
     
